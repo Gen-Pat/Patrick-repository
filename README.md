@@ -1,5 +1,3 @@
-# Patrick-repository
-things are getting better
+# Patrick Gyan repo
 
-
-just believe
+Patrick is killing it.
